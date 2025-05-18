@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Jogo de Teste",
+        "image": "games/test_game.jpg",
+        "size": "10 MB",
+        "exe_name": "target_game.exe",
+        "download_url": "https://github.com/gu2121gg/Projeto-Xemuloter/releases/download/v2.0/target_game.exe",
+        "md5": "c062481a4ce6714a7865c286ae4660b"
+    }
+]
